@@ -10,3 +10,9 @@ It runs parallel jobs for multiple Node.js versions and stores the build outputs
 - **Identifier Step:** Includes a step named `matrix-812d6ea` for validation  
 
 ### 📂 Repository Structure
+.github/
+└── workflows/
+└── matrix-build.yml
+README.md
+### 📧 Contact
+**Email:** 24ds2000137@ds.study.iitm.ac.in
